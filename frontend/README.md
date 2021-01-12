@@ -1,4 +1,4 @@
--> Criar arquivo packeage
+-> Criar arquivo package
 ### npm init
 
 -> Instalar o react e o next 
